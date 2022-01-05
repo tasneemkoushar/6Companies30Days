@@ -71,6 +71,7 @@ vector<int> findmax10_3(vector<int> arr){
         ans.push_back(pq.top());
         pq.pop();
     }
+    sort(ans.begin(),ans.end());
     return ans ;
     /*
     Time : O(N*logk) //pushing operation : O(logn)
