@@ -1,5 +1,6 @@
 /*
     Array Pair Sum Divisibility Problem
+    Question Link : https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1
 */
 
 bool canPair(vector<int> nums, int k) {

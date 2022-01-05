@@ -1,5 +1,6 @@
 /*
     Total Decoding Messages
+	Question Link: https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1/
 */
 
 class Solution {
